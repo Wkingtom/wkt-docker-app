@@ -12,3 +12,16 @@ To get started with any of the themes or projects in this repository, simply clo
 
 ```bash
 git clone https://github.com/Wkingtom/wkt-docker-app.git
+
+License
+The themes and resources are provided with the license keys for personal and commercial use. Please check the LICENSE file for detailed terms and conditions.
+
+Contribution
+Feel free to fork the repository, contribute, and open issues if you find any bugs or have suggestions for new themes and projects.
+
+Happy coding! ✨
+
+Feel free to adjust any part as you see fit!
+
+
+
